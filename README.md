@@ -5,11 +5,11 @@ I also used redux and redux-thunk for application state. All calls are made to m
 
 For testing I used Jest with Enzyme. I tested the most important components and not the containers.
 
-##Use these command:
+### Use these command:
 1. To Install Node Packages. - `npm install`
 2. To Run Project - `npm start`
 3. To Run Tests - `npm test`
 
-##External APIs
+### External APIs
 1. postcodeapi
 2. jiraApi
